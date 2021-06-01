@@ -17,7 +17,7 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 
 I've developed a similar application called "The Movie  Recommendation system" which supports all language movies. But the only thing that differs from this application is that I've used the TMDB's recommendation engine in "The Movie Cinema". The recommendation part developed by me in this application doesn't support for multi-language movies as it consumes 200% of RAM (even after deploying it to Heroku) for generating Count Vectorizer matrix for all the 700,000+ movies in the TMDB. 
 
-Link to "The Movie Cinema" application: 
+Link to "The Movie Recommendation System " application: 
 
 Don't worry if the movie that you are looking for is not auto-suggested. Just type the movie name and click on "enter". You will be good to go eventhough if you made some typo errors.
 
