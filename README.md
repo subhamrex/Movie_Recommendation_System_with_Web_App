@@ -56,7 +56,7 @@ More about Cosine Similarity : [Understanding the Math behind Cosine Similarity]
 
 ### Sources of the datasets 
 
-Download credits.csv and movies_metadata.csv from below [the movies dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset)
+Download credits.csv and movies_metadata.csv from [the movies dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset)
 
 1. [IMDB 5000 Movie Dataset](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset)
 2. [The Movies Dataset](https://www.kaggle.com/rounakbanik/the-movies-dataset)
