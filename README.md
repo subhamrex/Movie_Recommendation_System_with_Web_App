@@ -64,3 +64,7 @@ Download credits.csv and movies_metadata.csv from [the movies dataset](https://w
 4. [List of movies in 2019](https://en.wikipedia.org/wiki/List_of_American_films_of_2019)
 5. [List of movies in 2020](https://en.wikipedia.org/wiki/List_of_American_films_of_2020)
 
+Snapshot of my app:
+
+<img src="https://github.com/subhamrex/Movie_Recommendation_System_with_Web_App/blob/master/static/movie.PNG" alt="movie"/>
+
